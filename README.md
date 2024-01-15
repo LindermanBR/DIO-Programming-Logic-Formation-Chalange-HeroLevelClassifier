@@ -1,5 +1,5 @@
-# DIO-Programming-Logic-Formation-Challange
-A small console application developed in Java for the DIO project challenge "Hero Classification" to consolidate the knowledge about variables, conditional structures, and loops.
+# DIO-Programming-Logic-Formation-HeroChallange
+A small console application developed in Java for the DIO project challenge to consolidate the knowledge about variables, conditional structures, and loops.
 
 
 ## Objective
