@@ -1,5 +1,5 @@
 # DIO-Programming-Logic-Formation-HeroChallange
-# 1️⃣ Writing the Classes for a Game
+# 1️⃣ Desafio Classificador de nível de Herói
 A small console application developed in Java for the DIO project challenge to consolidate the knowledge about variables, conditional structures, and loops.
 
 
